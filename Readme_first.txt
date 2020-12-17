@@ -1,0 +1,2 @@
+This are exercises created by Helsinki University for the Geo-Python Course and free to take to anyone interested in those topics according to the course
+Visit    https://geo-python.github.io for more information
